@@ -60,6 +60,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 ## Output:
-![image](https://![WhatsApp Image 2024-03-09 at 09 23 39_036cdec6](https://github.com/Migaleyy/Rotating-the-Gaming-Object/assets/118262199/1288c9c0-f844-400e-b261-4d69960e6a53)
+![WhatsApp Image 2024-03-09 at 09 23 39_036cdec6](https://github.com/Migaleyy/Rotating-the-Gaming-Object/assets/118262199/22793ce3-32fe-4472-820f-610d7cb67dc2)
 ## Result:
+
 Thus the program to rotating an object in unity is verified successfully
